@@ -1,1 +1,1 @@
-azul y verde
+azul,rojo y verde
